@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Muss33
-- 👀 I’m interested about how does a machine works
-- 🌱 I’m currently learning AI
+- 👀 I’m interested in programming in general
+- 🌱 I’m currently starting the University
