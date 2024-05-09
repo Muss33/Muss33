@@ -1,3 +1,2 @@
 -  Hi, I’m @Muss33
--  I’m interested in programming in general
 -  I’m currently starting the University
