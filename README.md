@@ -1,2 +1,2 @@
 -  Hi, I’m @Muss33
--  I’m currently starting the University
+-  I’m currently studying the University
